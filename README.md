@@ -7,22 +7,3 @@ Things fall apart; the centre cannot hold;
 Mere anarchy is loosed upon the world,
 
 The blood-dimmed tide is loosed, and everywhere
-
-THIS IS LINE SIX
-
-testing
-
-
-
-
-
-
-
-text in the middle
-
-
-
-
-
-
-text at the end
